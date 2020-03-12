@@ -1,1 +1,1 @@
-js tutorila
+js tutorial
